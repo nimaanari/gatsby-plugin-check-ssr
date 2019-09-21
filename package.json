@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-check-ssr",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Provides react components that render only inside/outside server-side-rendering.",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir .",
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/nimaanari/gatsby-plugin-check-ssr.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["gatsby", "plugin", "react", "server-side-rendering"],
+  "author": "Nima Anari",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nimaanari/gatsby-plugin-check-ssr/issues"
