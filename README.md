@@ -42,6 +42,7 @@ export default () => {
         return <div>Outside SSR</div>;
     }
 };
+```
 
 ## License
 
